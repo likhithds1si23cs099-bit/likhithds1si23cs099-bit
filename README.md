@@ -26,6 +26,51 @@ I enjoy turning ideas into practical applications, solving programming problems 
 - 🌱 Learning through hands-on projects and coding practice
 - 🚀 My approach: **Learn → Build → Test → Improve**
 
+## 💬 The CSE Mindset
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=Think+logically.+Build+creatively.;Every+bug+is+a+lesson+in+disguise.;Great+software+starts+with+curiosity." alt="Computer science quotes"/>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> **“First, solve the problem. Then, write the code.”**
+>
+> <sub>— A reminder to focus on the problem before the implementation.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+> **“Data is the language. Algorithms are the reasoning.”**
+>
+> <sub>— Keep learning the foundations that power intelligent systems.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **“A bug is not a dead end; it is a clue.”**
+>
+> <sub>— Debug patiently, learn deeply, improve continuously.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+> **“Build for people. Think in systems. Improve with every commit.”**
+>
+> <sub>— My approach to becoming a better software engineer.</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b><code>while (curious) { learn(); build(); share(); }</code></b>
+</p>
+
 ## 🧰 My Tech Toolbox
 
 <p align="center"><b>PROGRAMMING</b></p>
